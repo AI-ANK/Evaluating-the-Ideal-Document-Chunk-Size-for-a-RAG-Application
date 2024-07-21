@@ -1,0 +1,6 @@
+llama-index=0.10.55
+ragas=0.1.10
+python-dotenv=1.0.1
+qdrant_client=1.10.1
+llama-index-vector-stores-qdrant=0.2.12
+datasets=1.16.0
