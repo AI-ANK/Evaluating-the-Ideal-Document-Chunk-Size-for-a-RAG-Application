@@ -1,6 +1,8 @@
-llama-index==0.10.55
+llama-index==0.10.57
 ragas==0.1.10
 python-dotenv==1.0.1
 qdrant_client==1.10.1
-llama-index-vector-stores-qdrant==0.2.12
-datasets==1.16.0
+llama-index-vector-stores-qdrant==0.2.14
+datasets==2.20.0
+streamlit==1.36.0
+llama-index-llms-openai==0.1.27

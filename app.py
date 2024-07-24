@@ -102,7 +102,7 @@ if st.button("Start Analysis"):
     rdf = result.to_pandas()
     st.write("Evaluation Results:", rdf.head())
 
-    chunk_sizes = [25, 1024, 2000]
+    chunk_sizes = [50, 1024, 2000]
     results = []
 
     for chunk_size in chunk_sizes:
